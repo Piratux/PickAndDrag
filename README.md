@@ -1,5 +1,5 @@
 # PickAndDrag
-Small JavaScript project to visualize UV mapping on 3D object.
+Small JavaScript project to visualize parametric UV mapping on 3D object.
 Project contains some demos to play with.
 The project or its code can be used for your own purposes as well.
 
