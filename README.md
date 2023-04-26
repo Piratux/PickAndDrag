@@ -4,7 +4,7 @@ Project contains some demos to play with.
 The project or its code can be used for your own purposes as well.
 
 ## Trying yourself
-Download project and run `index.html` file.
+You can try it here: https://piratux.github.io/pick_and_drag/
 
 ## Project screenshots
 ### Torus
